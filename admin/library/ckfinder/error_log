@@ -1,0 +1,1 @@
+[10-Jan-2020 03:15:12 America/New_York] PHP Fatal error:  Call to undefined function resolveUrl() in /home/indersan/public_html/admin/library/ckfinder/config.php on line 82

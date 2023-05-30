@@ -1,0 +1,953 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.indersantander.gov.co" ftp_rootfolder="/public_html" exportTarget="FTP" domain="www.indersantander.gov.co" resolutions="1x,2x" timestamp="1575999261589">
+  <folder name="css">
+    <file name="site_global.css" crc="317989440"/>
+    <file name="master_a-master.css" crc="527043964" ref="index:financiera:informescontrolint:enlaces:deporte-asociado:noticias:proteccion:deporte-estudiantil:calendario:portal-ninos:plan:normatividad:deporte-alto-rendimiento:director:deporte-social:pqrs:ligas:organigrama:habitos-y-salud:mision:presupuesto:gestion:funciones:financieros:control-interno:paa:mipg:presupuestoasignado:contratos:historia:juridica:calidad:directorio:politicas:transparencia"/>
+    <file name="index.css" crc="4080384516" ref="index"/>
+    <file name="iefonts_index.css" crc="277282795" ref="index"/>
+    <file name="financiera.css" crc="3993018728" ref="financiera"/>
+    <file name="iefonts_financiera.css" crc="273193317" ref="financiera"/>
+    <file name="informescontrolint.css" crc="4021490972" ref="informescontrolint"/>
+    <file name="iefonts_informescontrolint.css" crc="67444000" ref="informescontrolint"/>
+    <file name="enlaces.css" crc="56279506" ref="enlaces"/>
+    <file name="iefonts_enlaces.css" crc="125763110" ref="enlaces"/>
+    <file name="deporte-asociado.css" crc="63610170" ref="deporte-asociado"/>
+    <file name="iefonts_deporte-asociado.css" crc="125763110" ref="deporte-asociado"/>
+    <file name="noticias.css" crc="397742404" ref="noticias"/>
+    <file name="iefonts_noticias.css" crc="3933264642" ref="noticias"/>
+    <file name="proteccion.css" crc="307784767" ref="proteccion"/>
+    <file name="iefonts_proteccion.css" crc="125763110" ref="proteccion"/>
+    <file name="deporte-estudiantil.css" crc="4016663391" ref="deporte-estudiantil"/>
+    <file name="iefonts_deporte-estudiantil.css" crc="3924008177" ref="deporte-estudiantil"/>
+    <file name="calendario.css" crc="463275662" ref="calendario"/>
+    <file name="iefonts_calendario.css" crc="4294061350" ref="calendario"/>
+    <file name="portal-ninos.css" crc="4186940924" ref="portal-ninos"/>
+    <file name="iefonts_portal-ninos.css" crc="125763110" ref="portal-ninos"/>
+    <file name="plan.css" crc="38240418" ref="plan"/>
+    <file name="iefonts_plan.css" crc="298541721" ref="plan"/>
+    <file name="normatividad.css" crc="416349799" ref="normatividad"/>
+    <file name="iefonts_normatividad.css" crc="3767597153" ref="normatividad"/>
+    <file name="deporte-alto-rendimiento.css" crc="439452916" ref="deporte-alto-rendimiento"/>
+    <file name="iefonts_deporte-alto-rendimiento.css" crc="125763110" ref="deporte-alto-rendimiento"/>
+    <file name="director.css" crc="4231733991" ref="director"/>
+    <file name="iefonts_director.css" crc="125763110" ref="director"/>
+    <file name="deporte-social.css" crc="4203419352" ref="deporte-social"/>
+    <file name="iefonts_deporte-social.css" crc="125763110" ref="deporte-social"/>
+    <file name="pqrs.css" crc="4070864998" ref="pqrs"/>
+    <file name="iefonts_pqrs.css" crc="4092430498" ref="pqrs"/>
+    <file name="ligas.css" crc="4025375842" ref="ligas"/>
+    <file name="iefonts_ligas.css" crc="3776363656" ref="ligas"/>
+    <file name="organigrama.css" crc="224588711" ref="organigrama"/>
+    <file name="iefonts_organigrama.css" crc="125763110" ref="organigrama"/>
+    <file name="habitos-y-salud.css" crc="3848441329" ref="habitos-y-salud"/>
+    <file name="iefonts_habitos-y-salud.css" crc="125763110" ref="habitos-y-salud"/>
+    <file name="mision.css" crc="527468661" ref="mision"/>
+    <file name="iefonts_mision.css" crc="4078781141" ref="mision"/>
+    <file name="presupuesto.css" crc="4114107522" ref="presupuesto"/>
+    <file name="iefonts_presupuesto.css" crc="3892960325" ref="presupuesto"/>
+    <file name="gestion.css" crc="4092658819" ref="gestion"/>
+    <file name="iefonts_gestion.css" crc="361441968" ref="gestion"/>
+    <file name="funciones.css" crc="339805784" ref="funciones"/>
+    <file name="iefonts_funciones.css" crc="4277225427" ref="funciones"/>
+    <file name="financieros.css" crc="3910612897" ref="financieros"/>
+    <file name="iefonts_financieros.css" crc="4213809659" ref="financieros"/>
+    <file name="control-interno.css" crc="4214834679" ref="control-interno"/>
+    <file name="iefonts_control-interno.css" crc="523748391" ref="control-interno"/>
+    <file name="paa.css" crc="4263824905" ref="paa"/>
+    <file name="iefonts_paa.css" crc="4132448728" ref="paa"/>
+    <file name="mipg.css" crc="4118497108" ref="mipg"/>
+    <file name="iefonts_mipg.css" crc="4096522045" ref="mipg"/>
+    <file name="presupuestoasignado.css" crc="3938239285" ref="presupuestoasignado"/>
+    <file name="iefonts_presupuestoasignado.css" crc="529275858" ref="presupuestoasignado"/>
+    <file name="contratos.css" crc="4269538484" ref="contratos"/>
+    <file name="iefonts_contratos.css" crc="464402397" ref="contratos"/>
+    <file name="historia.css" crc="104110857" ref="historia"/>
+    <file name="iefonts_historia.css" crc="520069536" ref="historia"/>
+    <file name="juridica.css" crc="168249576" ref="juridica"/>
+    <file name="iefonts_juridica.css" crc="351591330" ref="juridica"/>
+    <file name="calidad.css" crc="21510669" ref="calidad"/>
+    <file name="iefonts_calidad.css" crc="299685524" ref="calidad"/>
+    <file name="directorio.css" crc="125395417" ref="directorio"/>
+    <file name="iefonts_directorio.css" crc="255300288" ref="directorio"/>
+    <file name="politicas.css" crc="4237727264" ref="politicas"/>
+    <file name="iefonts_politicas.css" crc="125763110" ref="politicas"/>
+    <file name="transparencia.css" crc="3800200412" ref="transparencia"/>
+    <file name="iefonts_transparencia.css" crc="36526243" ref="transparencia"/>
+  </folder>
+  <folder name="assets">
+    <file name="escritorios-metalicas-colombia-cebra-creativos.jpg" crc="4060879604" seo="true" mt="1554931636000"/>
+    <file name="vitrina-chocola.jpg" crc="3982348419" seo="true" mt="1554932129000"/>
+    <file name="estanteria-drogueria.jpg" crc="207372339" seo="true" mt="1554932228000"/>
+    <file name="estanteria-bodega.jpg" crc="502711081" seo="true" mt="1554932301000"/>
+    <file name="estan-de-frutas.jpg" crc="4224701847" seo="true" mt="1554932385000"/>
+    <file name="pupitreshtg.jpg" crc="338847553" seo="true" mt="1556378513000"/>
+    <file name="hornitopan.jpg" crc="513622789" seo="true" mt="1556378739000"/>
+    <file name="gondolas.jpg" crc="430052003" seo="true" mt="1556925613000"/>
+    <file name="metalicas-colombia-1021.jpg" crc="4027802831" seo="true" mt="1563027579000"/>
+    <file name="resolucion-2346-2007.pdf" crc="513885808" seo="true" mt="1554572642000"/>
+    <file name="plandeaccion-anual-2016.pdf" crc="38351041" seo="true" mt="1563879843000"/>
+    <file name="plandeaccion-2016.pdf" crc="38351041" seo="true" mt="1563879807000"/>
+    <file name="plandeaccion-2017.pdf" crc="189751825" seo="true" mt="1563879856000"/>
+    <file name="plandeaccion-2018.pdf" crc="117124497" seo="true" mt="1563879867000"/>
+    <file name="1.pdf" crc="3877962164" seo="true" mt="1563881907000"/>
+    <file name="2.pdf" crc="4183059048" seo="true" mt="1563881913000"/>
+    <file name="3.pdf" crc="111372422" seo="true" mt="1563881920000"/>
+    <file name="4.pdf" crc="4129796325" seo="true" mt="1563881929000"/>
+    <file name="5.pdf" crc="4112282491" seo="true" mt="1563881938000"/>
+    <file name="6.pdf" crc="120404945" seo="true" mt="1563881948000"/>
+    <file name="7.pdf" crc="470114606" seo="true" mt="1563881958000"/>
+    <file name="8.pdf" crc="510096575" seo="true" mt="1563881968000"/>
+    <file name="9.pdf" crc="175242989" seo="true" mt="1563881975000"/>
+    <file name="d1.pdf" crc="3830850076" seo="true" mt="1563882531000"/>
+    <file name="d2.pdf" crc="236401575" seo="true" mt="1563882537000"/>
+    <file name="d3.pdf" crc="3852262960" seo="true" mt="1563882545000"/>
+    <file name="d4.pdf" crc="453505018" seo="true" mt="1563882555000"/>
+    <file name="d5.pdf" crc="4211815483" seo="true" mt="1563882565000"/>
+    <file name="d6.pdf" crc="354401359" seo="true" mt="1563882573000"/>
+    <file name="d7.pdf" crc="4263155470" seo="true" mt="1563882604000"/>
+    <file name="d8.pdf" crc="520701781" seo="true" mt="1563882626000"/>
+    <file name="d9.pdf" crc="4239534703" seo="true" mt="1563882638000"/>
+    <file name="d10.pdf" crc="4045595842" seo="true" mt="1563882651000"/>
+    <file name="d11.pdf" crc="4226918494" seo="true" mt="1563882664000"/>
+    <file name="d12.pdf" crc="209706418" seo="true" mt="1563882679000"/>
+    <file name="d13.pdf" crc="4097659901" seo="true" mt="1563882699000"/>
+    <file name="d14.pdf" crc="40622252" seo="true" mt="1563882713000"/>
+    <file name="d15.pdf" crc="4286396477" seo="true" mt="1563882722000"/>
+    <file name="d16.pdf" crc="438934837" seo="true" mt="1563882738000"/>
+    <file name="d17.pdf" crc="4238669253" seo="true" mt="1563882747000"/>
+    <file name="d18.pdf" crc="3776765728" seo="true" mt="1563882768000"/>
+    <file name="d19.pdf" crc="4288246414" seo="true" mt="1563882785000"/>
+    <file name="d20.pdf" crc="3960901100" seo="true" mt="1563882793000"/>
+    <file name="ordenanza18-2004.pdf" crc="137350478" seo="true" mt="1563964183000"/>
+    <file name="m1.pdf" crc="240358675" seo="true" mt="1563965332000"/>
+    <file name="m2.pdf" crc="230935685" seo="true" mt="1563965365000"/>
+    <file name="m3.pdf" crc="3817610087" seo="true" mt="1563965514000"/>
+    <file name="m4.pdf" crc="4203156753" seo="true" mt="1563965890000"/>
+    <file name="m5.pdf" crc="534724891" seo="true" mt="1563965899000"/>
+    <file name="m6.pdf" crc="3935979996" seo="true" mt="1563965910000"/>
+    <file name="m7.pdf" crc="307715494" seo="true" mt="1563965920000"/>
+    <file name="normograma-indersantander-2016.pdf" crc="4112358106" seo="true" mt="1563966177000"/>
+    <file name="r1.pdf" crc="51955466" seo="true" mt="1563966418000"/>
+    <file name="r2.pdf" crc="4012310454" seo="true" mt="1563966426000"/>
+    <file name="r3.pdf" crc="3803268795" seo="true" mt="1563966436000"/>
+    <file name="r4.pdf" crc="33467898" seo="true" mt="1563966446000"/>
+    <file name="r5.pdf" crc="307011940" seo="true" mt="1563966456000"/>
+    <file name="r6.pdf" crc="3815300110" seo="true" mt="1563966469000"/>
+    <file name="r7.pdf" crc="307612900" seo="true" mt="1563966493000"/>
+    <file name="r8.pdf" crc="95063927" seo="true" mt="1563966508000"/>
+    <file name="r9.pdf" crc="3877192177" seo="true" mt="1563966522000"/>
+    <file name="r10.pdf" crc="115797667" seo="true" mt="1563966534000"/>
+    <file name="r11.pdf" crc="3902216621" seo="true" mt="1563966547000"/>
+    <file name="decretos-054-225-1997.pdf" crc="4100331585" seo="true" mt="1563968763000"/>
+    <file name="ordenanza029-1999.pdf" crc="313974139" seo="true" mt="1563968773000"/>
+    <file name="ordenanza093-1996.pdf" crc="5647595" seo="true" mt="1563968745000"/>
+    <file name="ligasdesantander2018.pdf" crc="436529627" seo="true" mt="1566814974000"/>
+    <file name="plandesarrollo20162019.pdf" crc="343866494" seo="true" mt="1563879980000"/>
+    <file name="informegestion2019.pdf" crc="185506476" seo="true" mt="1566817809000"/>
+    <file name="informegestion2018.pdf" crc="394393261" seo="true" mt="1566817879000"/>
+    <file name="informedegestion2017.pdf" crc="174410983" seo="true" mt="1566817923000"/>
+    <file name="informe_gestion_2014_asamblea.ppsx" crc="4227131468" seo="true" mt="1566817974000"/>
+    <file name="informe_gestion_indersantander_a_sept_2015.pdf" crc="427068577" seo="true" mt="1566817993000"/>
+    <file name="informegestion2016.pdf" crc="3986638841" seo="true" mt="1566817998000"/>
+    <file name="informe-gestion-inders_2013.pdf" crc="506609522" seo="true" mt="1566817986000"/>
+    <file name="contratacion2016.pdf" crc="478716108" seo="true" mt="1567454774000"/>
+    <file name="contratacion2017.pdf" crc="4206952499" seo="true" mt="1567454784000"/>
+    <file name="contratacion2018.pdf" crc="422739483" seo="true" mt="1567454794000"/>
+    <file name="paa_inicial_2016.pdf" crc="498735108" seo="true" mt="1567454943000"/>
+    <file name="paa-2018.pdf" crc="4039643630" seo="true" mt="1567454959000"/>
+    <file name="paa2019.pdf" crc="3908006784" seo="true" mt="1567454966000"/>
+    <file name="paainicial_2017.pdf" crc="4140530219" seo="true" mt="1567454952000"/>
+    <file name="pac2016-proyectado.pdf" crc="4267686245" seo="true" mt="1567455228000"/>
+    <file name="pac2017-proyectado.pdf" crc="393709661" seo="true" mt="1567455237000"/>
+    <file name="pac-2018.pdf" crc="240894991" seo="true" mt="1567455244000"/>
+    <file name="pac-2019.pdf" crc="4231000119" seo="true" mt="1567455258000"/>
+    <file name="resolucion279.pdf" crc="507803596" seo="true" mt="1567455663000"/>
+    <file name="mapa-de-procesos.pdf" crc="65661697" seo="true" mt="1567456675000"/>
+    <file name="plananticorrupcion2019.pdf" crc="162704001" seo="true" mt="1567458055000"/>
+    <file name="programagestiondocumental-vigente.pdf" crc="132694663" seo="true" mt="1567458306000"/>
+    <file name="tablasderetencion2019.pdf" crc="131550819" seo="true" mt="1567458336000"/>
+    <file name="inventariotecnologico.pdf" crc="396129618" seo="true" mt="1567458444000"/>
+    <file name="peti-2019.pdf" crc="187892471" seo="true" mt="1567458421000"/>
+    <file name="politicastic-2019.pdf" crc="17204911" seo="true" mt="1567458434000"/>
+    <file name="ejecucionpresupuestal2018_22.pdf" crc="275381936" seo="true" mt="1567465483000"/>
+    <file name="estadosfinancieros_20182.pdf" crc="106841308" seo="true" mt="1567465494000"/>
+    <file name="paa-20182.pdf" crc="4039643630" seo="true" mt="1567465456000"/>
+    <file name="pac-20182.pdf" crc="240894991" seo="true" mt="1567465472000"/>
+    <file name="convocatoriamejoresequipos2017.pdf" crc="3865731366" seo="true" mt="1567465705000"/>
+    <file name="resolucion028-2017.pdf" crc="180818664" seo="true" mt="1567465792000"/>
+    <file name="convocatoria001-2017.zip" crc="4170937941" seo="true" mt="1567465840000"/>
+    <file name="plananticorrupcion-2017.pdf" crc="268153039" seo="true" mt="1567466550000"/>
+    <file name="resolucion009-2017.pdf" crc="159629894" seo="true" mt="1567466620000"/>
+    <file name="resolucion_059_abril_16_2016.pdf" crc="493159976" seo="true" mt="1567467063000"/>
+    <file name="resolucion_009_2016.pdf" crc="404604285" seo="true" mt="1567467164000"/>
+    <file name="seccion-noticias.jpg" crc="4092115904" seo="true" mt="1568153912000"/>
+    <file name="portal-transpa.jpg" crc="4009184206" seo="true" mt="1568154308000"/>
+    <file name="seguimientoplananticorrupcion2019-tercertrimestre.pdf" crc="4018171009" seo="true" mt="1568388714000"/>
+    <file name="8-2-relacion-contratos-2019.xlsx" crc="440096057" seo="true" mt="1569523459000"/>
+    <file name="7-6-informe-procesos-judiciales-julio-2019.xlsx" crc="4139713694" seo="true" mt="1569523512000"/>
+    <file name="peti---indersantander.pdf" crc="187892471" seo="true" mt="1569523690000"/>
+    <file name="politica-de-seguridad-y-privacidad-de-la-información-indersantander.pdf" crc="17204911" seo="true" mt="1569523693000"/>
+    <file name="austeridadgasto2019-tercertrimestre.pdf" crc="3832908243" seo="true" mt="1570568912000"/>
+    <file name="pgd-indersantander.pdf" crc="315150014" seo="true" mt="1572437683000"/>
+    <file name="tablas-retencion-documental.pdf" crc="131550819" seo="true" mt="1572437770000"/>
+    <file name="informe-procesos-judiciales-julio-2019.xlsx" crc="4139713694" seo="true" mt="1572437884000"/>
+    <file name="preguntas-frecuentes-inder.pdf" crc="126006686" seo="true" mt="1573663064000"/>
+    <file name="res-028-2019-plan-bienestar-social,-estimulos-e-incentivos-y-capacitacion-(1).pdf" crc="3549514" seo="true" mt="1573682084000"/>
+    <file name="pinar-indersantander.pdf" crc="3916274700" seo="true" mt="1573682084000"/>
+    <file name="informe-pormenorizado-control-interno-a--octubre-31.pdf" crc="4024642283" seo="true" mt="1573837040000"/>
+    <file name="resolucion180-de-2018-codigo-de-integridad-del-servicio-publico.pdf" crc="3921066843" seo="true" mt="1573837570000"/>
+    <file name="informe-auditoria-icontec-2016.pdf" crc="22685626" seo="true" mt="1573856024000"/>
+    <file name="informe-auditoria-icontec-2017.pdf" crc="4257620598" seo="true" mt="1573856024000"/>
+    <file name="informe-auditoria-icontec-2018.pdf" crc="3971549045" seo="true" mt="1573856024000"/>
+    <file name="plan-de-trabajo-sgi_2019.pdf" crc="3964231984" seo="true" mt="1573838762000"/>
+    <file name="avance-1-plan-de-mejoramiento-cgs-abril-2019.xls" crc="107256017" seo="true" mt="1573856904000"/>
+    <file name="avance-2-plan-de-mejorameinto-cgs-julio-2019.xlsx" crc="203458888" seo="true" mt="1573856904000"/>
+    <file name="avance-3-plan-de-mejormiento-cgs-octubre-2019.xlsx" crc="488491671" seo="true" mt="1573856904000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="museutils.js" crc="3939489907" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="whatinput.js" crc="86476730" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="webpro.js" crc="3856315280" ref="index:normatividad:deporte-estudiantil:control-interno:pqrs:informescontrolint"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:director:organigrama:mision:funciones:plan:historia:habitos-y-salud:contratos:enlaces:pqrs:presupuestoasignado:paa"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index:mision:funciones:historia"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="require.js" crc="4177726516" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="normatividad:deporte-estudiantil:control-interno:informescontrolint"/>
+    <file name="form_check.php" crc="4108222811" ref="pqrs"/>
+    <file name="form_throttle.php" crc="503802655" ref="pqrs"/>
+    <file name="form_process.php" crc="260214869" ref="pqrs"/>
+    <file name="form-u36822.php" crc="224673226" ref="pqrs"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="3804512786" seo="true" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg">
+      <caption webpage="financieros" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="director" alt=""/>
+      <caption webpage="funciones" alt=""/>
+      <caption webpage="juridica" alt=""/>
+      <caption webpage="gestion" alt=""/>
+      <caption webpage="deporte-social" alt=""/>
+      <caption webpage="organigrama" alt=""/>
+      <caption webpage="portal-ninos" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="financiera" alt=""/>
+      <caption webpage="habitos-y-salud" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="presupuestoasignado" alt=""/>
+      <caption webpage="politicas" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="deporte-asociado" alt=""/>
+      <caption webpage="informescontrolint" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="proteccion" alt=""/>
+      <caption webpage="mision" alt=""/>
+      <caption webpage="control-interno" alt=""/>
+      <caption webpage="deporte-alto-rendimiento" alt=""/>
+      <caption webpage="presupuesto" alt=""/>
+      <caption webpage="paa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="ligas" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="enlaces" alt=""/>
+      <caption webpage="calidad" alt=""/>
+      <caption webpage="pqrs" alt=""/>
+      <caption webpage="deporte-estudiantil" alt=""/>
+      <caption webpage="normatividad" alt=""/>
+    </file>
+    <file name="personajes logo.png" crc="4047027345" seo="true" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg">
+      <caption webpage="financieros" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="director" alt=""/>
+      <caption webpage="funciones" alt=""/>
+      <caption webpage="juridica" alt=""/>
+      <caption webpage="gestion" alt=""/>
+      <caption webpage="deporte-social" alt=""/>
+      <caption webpage="organigrama" alt=""/>
+      <caption webpage="portal-ninos" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="financiera" alt=""/>
+      <caption webpage="habitos-y-salud" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="presupuestoasignado" alt=""/>
+      <caption webpage="politicas" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="deporte-asociado" alt=""/>
+      <caption webpage="informescontrolint" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="proteccion" alt=""/>
+      <caption webpage="mision" alt=""/>
+      <caption webpage="control-interno" alt=""/>
+      <caption webpage="deporte-alto-rendimiento" alt=""/>
+      <caption webpage="presupuesto" alt=""/>
+      <caption webpage="paa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="ligas" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="enlaces" alt=""/>
+      <caption webpage="calidad" alt=""/>
+      <caption webpage="pqrs" alt=""/>
+      <caption webpage="deporte-estudiantil" alt=""/>
+      <caption webpage="normatividad" alt=""/>
+    </file>
+    <file name="personajes logo_2x.png" crc="56052518" seo="true" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg">
+      <caption webpage="financieros" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="calendario" alt=""/>
+      <caption webpage="director" alt=""/>
+      <caption webpage="funciones" alt=""/>
+      <caption webpage="juridica" alt=""/>
+      <caption webpage="gestion" alt=""/>
+      <caption webpage="deporte-social" alt=""/>
+      <caption webpage="organigrama" alt=""/>
+      <caption webpage="portal-ninos" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="financiera" alt=""/>
+      <caption webpage="habitos-y-salud" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="noticias" alt=""/>
+      <caption webpage="presupuestoasignado" alt=""/>
+      <caption webpage="politicas" alt=""/>
+      <caption webpage="directorio" alt=""/>
+      <caption webpage="deporte-asociado" alt=""/>
+      <caption webpage="informescontrolint" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="proteccion" alt=""/>
+      <caption webpage="mision" alt=""/>
+      <caption webpage="control-interno" alt=""/>
+      <caption webpage="deporte-alto-rendimiento" alt=""/>
+      <caption webpage="presupuesto" alt=""/>
+      <caption webpage="paa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="historia" alt=""/>
+      <caption webpage="ligas" alt=""/>
+      <caption webpage="contratos" alt=""/>
+      <caption webpage="enlaces" alt=""/>
+      <caption webpage="calidad" alt=""/>
+      <caption webpage="pqrs" alt=""/>
+      <caption webpage="deporte-estudiantil" alt=""/>
+      <caption webpage="normatividad" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3767567154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="2.jpg" crc="4119870232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3954103295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="117558524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="fon1.jpg" crc="4254504608" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sandpaper.jpg" crc="19767549" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:ligas:habitos-y-salud:gestion:contratos:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:politicas:proteccion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sandpaper_2x.jpg" crc="3941675279" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:ligas:habitos-y-salud:gestion:contratos:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:politicas:proteccion">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="house-u1101.png" crc="3810110679" ref="index"/>
+    <file name="house-u1101_2x.png" crc="3809301000" ref="index"/>
+    <file name="fondo.png" crc="3868013628" ref="index">
+      <caption webpage="index" alt="CAMPAMENTOS JUVENILES MATANZA"/>
+    </file>
+    <file name="fondo2.png" crc="4110464083" ref="index">
+      <caption webpage="index" alt="Preparación Juegos Nacionales 2019"/>
+    </file>
+    <file name="fondo_2x.png" crc="3868013628" ref="index">
+      <caption webpage="index" alt="Preparación Juegos Nacionales 2019"/>
+    </file>
+    <file name="separad.jpg" crc="4124867436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="separad_2x.jpg" crc="4068338911" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="minilogo.png" crc="3773906184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="minilogo_2x.png" crc="4090113614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2portaltrans.jpg" crc="4126273613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2portaltrans_2x.jpg" crc="83813679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b3encuesta.jpg" crc="435444229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b3encuesta_2x.jpg" crc="158589789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1galeria.jpg" crc="4253961479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b1galeria_2x.jpg" crc="3988216209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fac.png" crc="4061527510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fac_2x.png" crc="279688031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tweeter.png" crc="3903943139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tweeter_2x.png" crc="3800741832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtu.png" crc="3883522919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtu_2x.png" crc="102037962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u28218.png" crc="3791399442" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28218_2x.png" crc="3939141018" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28218-r.png" crc="294095176" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28218-r_2x.png" crc="3938175510" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28226.png" crc="4100500076" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28226_2x.png" crc="255926966" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28226-r.png" crc="235193089" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28226-r_2x.png" crc="4191335617" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28233.png" crc="4033330186" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28233_2x.png" crc="508185854" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28233-r.png" crc="4168015736" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28233-r_2x.png" crc="4270880533" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28240.png" crc="4105836565" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28240_2x.png" crc="256791968" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28240-r.png" crc="3912473105" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28240-r_2x.png" crc="4232436915" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28247.png" crc="4190584203" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28247_2x.png" crc="3854701867" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28247-r.png" crc="343984343" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28247-r_2x.png" crc="222049698" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28254.png" crc="4056059335" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28254_2x.png" crc="3814058510" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28254-r.png" crc="4038228912" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28254-r_2x.png" crc="320016102" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28261.png" crc="122215376" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28261_2x.png" crc="262950963" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28261-r.png" crc="3861545690" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28261-r_2x.png" crc="4047321180" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28268.png" crc="4263212055" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28268_2x.png" crc="58611438" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28268-r.png" crc="3914771631" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28268-r_2x.png" crc="508293776" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28275.png" crc="311356358" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28275_2x.png" crc="4086688582" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28275-r.png" crc="155069764" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="u28275-r_2x.png" crc="4272478416" ref="index:director:organigrama:mision:funciones:plan:normatividad:historia:calidad:directorio:deporte-asociado:deporte-estudiantil:deporte-social:deporte-alto-rendimiento:ligas:habitos-y-salud:gestion:control-interno:contratos:juridica:transparencia:enlaces:financiera:noticias:calendario:pqrs:presupuesto:financieros:presupuestoasignado:paa:informescontrolint:politicas:proteccion:portal-ninos:mipg"/>
+    <file name="diegomancilla.jpg" crc="374887461" ref="director">
+      <caption webpage="director" alt=""/>
+    </file>
+    <file name="organigra.png" crc="432354587" ref="organigrama">
+      <caption webpage="organigrama" alt=""/>
+    </file>
+    <file name="organigrama.jpg" crc="3812200491" seo="true" ref="organigrama">
+      <caption webpage="organigrama" alt=""/>
+    </file>
+    <file name="nosotr.jpg" crc="263582980" ref="mision">
+      <caption webpage="mision" alt=""/>
+    </file>
+    <file name="quines somos.jpg" crc="4111619954" ref="mision">
+      <caption webpage="mision" alt=""/>
+    </file>
+    <file name="mision-vision-u29192.png" crc="4000320666" ref="mision"/>
+    <file name="mision-vision-u29192_2x.png" crc="3975571453" ref="mision"/>
+    <file name="valores-u29221.png" crc="432170548" ref="mision"/>
+    <file name="valores-u29221_2x.png" crc="137764389" ref="mision"/>
+    <file name="junta-directiva-2019.jpg" crc="4152947328" ref="funciones">
+      <caption webpage="funciones" alt=""/>
+    </file>
+    <file name="funciones.jpg" crc="4250893627" ref="funciones">
+      <caption webpage="funciones" alt=""/>
+    </file>
+    <file name="descarga2.jpg" crc="3833444789" ref="plan:contratos:presupuestoasignado">
+      <caption webpage="plan" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="3867018289" ref="plan:contratos:paa">
+      <caption webpage="plan" alt=""/>
+    </file>
+    <file name="historia.jpg" crc="3778166188" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="historia1.jpg" crc="3843158197" ref="historia">
+      <caption webpage="historia" alt=""/>
+    </file>
+    <file name="habitosysalud.jpg" crc="4203508925" ref="habitos-y-salud">
+      <caption webpage="habitos-y-salud" alt=""/>
+    </file>
+    <file name="habitosysalud_2x.jpg" crc="3838214327" ref="habitos-y-salud">
+      <caption webpage="habitos-y-salud" alt=""/>
+    </file>
+    <file name="hard slit separator.png" crc="4180292817" seo="true" ref="transparencia:mipg">
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="mipg" alt=""/>
+      <caption webpage="mipg" alt=""/>
+    </file>
+    <file name="thin inset separator.png" crc="3905098597" seo="true" ref="transparencia">
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+      <caption webpage="transparencia" alt=""/>
+    </file>
+    <file name="coldeportes-copiar.jpg" crc="262475125" ref="enlaces">
+      <caption webpage="enlaces" alt=""/>
+    </file>
+    <file name="coldeportes-copiar_2x.jpg" crc="154035519" ref="enlaces">
+      <caption webpage="enlaces" alt=""/>
+    </file>
+    <file name="mineducacion-u33369.png" crc="3953373274" ref="enlaces"/>
+    <file name="mineducacion-u33369_2x.png" crc="4278064371" ref="enlaces"/>
+    <file name="inderbu-logo-u33385.png" crc="82695161" ref="enlaces"/>
+    <file name="inderbu-logo-u33385_2x.png" crc="434601198" ref="enlaces"/>
+    <file name="ideflorida-u33401.png" crc="4062453729" ref="enlaces"/>
+    <file name="ideflorida-u33401_2x.png" crc="4104091767" ref="enlaces"/>
+    <file name="pqrs.jpg" crc="489739551" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="pqrs">
+      <caption webpage="pqrs" alt=""/>
+    </file>
+    <file name="bienvenido.png" crc="66177177" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="bienvenido_2x.png" crc="4062366194" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="que es.png" crc="4210250917" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="que es_2x.png" crc="3870764525" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="mision.png" crc="43953398" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="mision_2x.png" crc="4242052158" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="valores.png" crc="4081042398" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+    <file name="valores_2x.png" crc="4204026911" seo="true" ref="portal-ninos">
+      <caption webpage="portal-ninos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3920607080" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="director.html" crc="384929630" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="organigrama.html" crc="3988616903" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="mision.html" crc="4036313853" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="funciones.html" crc="3774478676" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="plan.html" crc="4243013229" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="normatividad.html" crc="3981770653" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="historia.html" crc="3927633899" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="calidad.html" crc="3957316935" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="directorio.html" crc="3852875349" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="deporte-asociado.html" crc="4174590490" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="deporte-estudiantil.html" crc="82200652" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="deporte-social.html" crc="81023650" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="deporte-alto-rendimiento.html" crc="19109881" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="ligas.html" crc="166875082" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="habitos-y-salud.html" crc="3955210054" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="gestion.html" crc="3911805693" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="control-interno.html" crc="4058861408" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="contratos.html" crc="3984609668" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="juridica.html" crc="4189061011" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="transparencia.html" crc="3796450830" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="enlaces.html" crc="487804133" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="financiera.html" crc="1478947" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="noticias.html" crc="3941810398" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="calendario.html" crc="4188269707" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="pqrs.html" crc="76571036" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="presupuesto.html" crc="4089980556" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="financieros.html" crc="236739954" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="presupuestoasignado.html" crc="280041802" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="paa.html" crc="4270503896" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="informescontrolint.html" crc="3911133679" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="politicas.html" crc="410021775" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="proteccion.html" crc="465844008" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="portal-ninos.html" crc="4189875786" seo="true" mt="1575999206331" redirect="true"/>
+  <file name="mipg.html" crc="529760702" seo="true" mt="1575999206331" redirect="true"/>
+  <site>
+    <asset filename="escritorios-metalicas-colombia-cebra-creativos.jpg" muse_href="upload:U8720"/>
+    <asset filename="vitrina-chocola.jpg" muse_href="upload:U8771"/>
+    <asset filename="estanteria-drogueria.jpg" muse_href="upload:U8791"/>
+    <asset filename="estanteria-bodega.jpg" muse_href="upload:U8793"/>
+    <asset filename="estan-de-frutas.jpg" muse_href="upload:U8795"/>
+    <asset filename="pupitreshtg.jpg" muse_href="upload:U25606"/>
+    <asset filename="hornitopan.jpg" muse_href="upload:U25608"/>
+    <asset filename="gondolas.jpg" muse_href="upload:U25775"/>
+    <asset filename="metalicas-colombia-1021.jpg" muse_href="upload:U25922"/>
+    <asset filename="resolucion-2346-2007.pdf" muse_href="upload:U29501"/>
+    <asset filename="plandeaccion-anual-2016.pdf" muse_href="upload:U29567"/>
+    <asset filename="plandeaccion-2016.pdf" muse_href="upload:U29569"/>
+    <asset filename="plandeaccion-2017.pdf" muse_href="upload:U29571"/>
+    <asset filename="plandeaccion-2018.pdf" muse_href="upload:U29573"/>
+    <asset filename="1.pdf" muse_href="upload:U29817"/>
+    <asset filename="2.pdf" muse_href="upload:U29819"/>
+    <asset filename="3.pdf" muse_href="upload:U29821"/>
+    <asset filename="4.pdf" muse_href="upload:U29823"/>
+    <asset filename="5.pdf" muse_href="upload:U29825"/>
+    <asset filename="6.pdf" muse_href="upload:U29827"/>
+    <asset filename="7.pdf" muse_href="upload:U29829"/>
+    <asset filename="8.pdf" muse_href="upload:U29831"/>
+    <asset filename="9.pdf" muse_href="upload:U29833"/>
+    <asset filename="d1.pdf" muse_href="upload:U30027"/>
+    <asset filename="d2.pdf" muse_href="upload:U30029"/>
+    <asset filename="d3.pdf" muse_href="upload:U30031"/>
+    <asset filename="d4.pdf" muse_href="upload:U30033"/>
+    <asset filename="d5.pdf" muse_href="upload:U30035"/>
+    <asset filename="d6.pdf" muse_href="upload:U30037"/>
+    <asset filename="d7.pdf" muse_href="upload:U30039"/>
+    <asset filename="d8.pdf" muse_href="upload:U30041"/>
+    <asset filename="d9.pdf" muse_href="upload:U30043"/>
+    <asset filename="d10.pdf" muse_href="upload:U30045"/>
+    <asset filename="d11.pdf" muse_href="upload:U30047"/>
+    <asset filename="d12.pdf" muse_href="upload:U30049"/>
+    <asset filename="d13.pdf" muse_href="upload:U30051"/>
+    <asset filename="d14.pdf" muse_href="upload:U30053"/>
+    <asset filename="d15.pdf" muse_href="upload:U30055"/>
+    <asset filename="d16.pdf" muse_href="upload:U30057"/>
+    <asset filename="d17.pdf" muse_href="upload:U30059"/>
+    <asset filename="d18.pdf" muse_href="upload:U30061"/>
+    <asset filename="d19.pdf" muse_href="upload:U30063"/>
+    <asset filename="d20.pdf" muse_href="upload:U30065"/>
+    <asset filename="c1.pdf" muse_href="upload:U30132"/>
+    <asset filename="c2.pdf" muse_href="upload:U30134"/>
+    <asset filename="c3.pdf" muse_href="upload:U30136"/>
+    <asset filename="c4.pdf" muse_href="upload:U30138"/>
+    <asset filename="ordenanza18-2004.pdf" muse_href="upload:U30179"/>
+    <asset filename="m1.pdf" muse_href="upload:U30291"/>
+    <asset filename="m2.pdf" muse_href="upload:U30293"/>
+    <asset filename="m3.pdf" muse_href="upload:U30295"/>
+    <asset filename="m4.pdf" muse_href="upload:U30297"/>
+    <asset filename="m5.pdf" muse_href="upload:U30299"/>
+    <asset filename="m6.pdf" muse_href="upload:U30301"/>
+    <asset filename="m7.pdf" muse_href="upload:U30303"/>
+    <asset filename="normograma-indersantander-2016.pdf" muse_href="upload:U30497"/>
+    <asset filename="r1.pdf" muse_href="upload:U30685"/>
+    <asset filename="r2.pdf" muse_href="upload:U30687"/>
+    <asset filename="r3.pdf" muse_href="upload:U30689"/>
+    <asset filename="r4.pdf" muse_href="upload:U30691"/>
+    <asset filename="r5.pdf" muse_href="upload:U30693"/>
+    <asset filename="r6.pdf" muse_href="upload:U30695"/>
+    <asset filename="r7.pdf" muse_href="upload:U30697"/>
+    <asset filename="r8.pdf" muse_href="upload:U30699"/>
+    <asset filename="r9.pdf" muse_href="upload:U30701"/>
+    <asset filename="r10.pdf" muse_href="upload:U30703"/>
+    <asset filename="r11.pdf" muse_href="upload:U30705"/>
+    <asset filename="p1.pdf" muse_href="upload:U30773"/>
+    <asset filename="p2.pdf" muse_href="upload:U30775"/>
+    <asset filename="p3.pdf" muse_href="upload:U30777"/>
+    <asset filename="p4.pdf" muse_href="upload:U30779"/>
+    <asset filename="p5.pdf" muse_href="upload:U30781"/>
+    <asset filename="p6.pdf" muse_href="upload:U30783"/>
+    <asset filename="p7.pdf" muse_href="upload:U30785"/>
+    <asset filename="decretos-054-225-1997.pdf" muse_href="upload:U30978"/>
+    <asset filename="ordenanza029-1999.pdf" muse_href="upload:U30980"/>
+    <asset filename="ordenanza093-1996.pdf" muse_href="upload:U30982"/>
+    <asset filename="mapaprocesos.pdf" muse_href="upload:U31153"/>
+    <asset filename="misionindersantander.pdf" muse_href="upload:U31155"/>
+    <asset filename="visionindersantander.pdf" muse_href="upload:U31157"/>
+    <asset filename="manualintegral_sgi-2.pdf" muse_href="upload:U31159"/>
+    <asset filename="manualintegral_sgi.pdf" muse_href="upload:U31161"/>
+    <asset filename="politicasgestionintegral2017.pdf" muse_href="upload:U31163"/>
+    <asset filename="directoriotelefonico2018.pdf" muse_href="upload:U31267"/>
+    <asset filename="ligasdesantander2018.pdf" muse_href="upload:U32673"/>
+    <asset filename="plandesarrollo20162019.pdf" muse_href="upload:U32693"/>
+    <asset filename="informegestion2019.pdf" muse_href="upload:U33415"/>
+    <asset filename="informegestion2018.pdf" muse_href="upload:U33417"/>
+    <asset filename="informedegestion2017.pdf" muse_href="upload:U33419"/>
+    <asset filename="informe_gestion_2014_asamblea.ppsx" muse_href="upload:U33421"/>
+    <asset filename="informe_gestion_indersantander_a_sept_2015.pdf" muse_href="upload:U33423"/>
+    <asset filename="informegestion2016.pdf" muse_href="upload:U33425"/>
+    <asset filename="informe-gestion-inders_2013.pdf" muse_href="upload:U33427"/>
+    <asset filename="contratacion2016.pdf" muse_href="upload:U34343"/>
+    <asset filename="contratacion2017.pdf" muse_href="upload:U34345"/>
+    <asset filename="contratacion2018.pdf" muse_href="upload:U34347"/>
+    <asset filename="paa_inicial_2016.pdf" muse_href="upload:U34349"/>
+    <asset filename="paa-2018.pdf" muse_href="upload:U34351"/>
+    <asset filename="paa2019.pdf" muse_href="upload:U34353"/>
+    <asset filename="paainicial_2017.pdf" muse_href="upload:U34355"/>
+    <asset filename="pac2016-proyectado.pdf" muse_href="upload:U34479"/>
+    <asset filename="pac2017-proyectado.pdf" muse_href="upload:U34481"/>
+    <asset filename="pac-2018.pdf" muse_href="upload:U34483"/>
+    <asset filename="pac-2019.pdf" muse_href="upload:U34485"/>
+    <asset filename="resolucion279.pdf" muse_href="upload:U34522"/>
+    <asset filename="mapa-de-procesos.pdf" muse_href="upload:U34886"/>
+    <asset filename="ejecucionpresupuestal2016.pdf" muse_href="upload:U35109"/>
+    <asset filename="ejecucionpresupuestal2017.pdf" muse_href="upload:U35111"/>
+    <asset filename="ejecucionpresupuestal2018_2.pdf" muse_href="upload:U35113"/>
+    <asset filename="ejecucionpresupuestal2019.pdf" muse_href="upload:U35115"/>
+    <asset filename="estadosfinancieros_2016.pdf" muse_href="upload:U35117"/>
+    <asset filename="estadosfinancieros_2018.pdf" muse_href="upload:U35119"/>
+    <asset filename="estadosfinancieros_2019.pdf" muse_href="upload:U35121"/>
+    <asset filename="estadosfinancieros2017.pdf" muse_href="upload:U35123"/>
+    <asset filename="plananticorrupcion2019.pdf" muse_href="upload:U35262"/>
+    <asset filename="programagestiondocumental-vigente.pdf" muse_href="upload:U35264"/>
+    <asset filename="tablasderetencion2019.pdf" muse_href="upload:U35266"/>
+    <asset filename="inventariotecnologico.pdf" muse_href="upload:U35268"/>
+    <asset filename="peti-2019.pdf" muse_href="upload:U35270"/>
+    <asset filename="politicastic-2019.pdf" muse_href="upload:U35272"/>
+    <asset filename="ejecucionpresupuestal2018_22.pdf" muse_href="upload:U37531"/>
+    <asset filename="estadosfinancieros_20182.pdf" muse_href="upload:U37533"/>
+    <asset filename="paa-20182.pdf" muse_href="upload:U37535"/>
+    <asset filename="pac-20182.pdf" muse_href="upload:U37537"/>
+    <asset filename="convocatoriamejoresequipos2017.pdf" muse_href="upload:U37539"/>
+    <asset filename="resolucion028-2017.pdf" muse_href="upload:U37541"/>
+    <asset filename="convocatoria001-2017.zip" muse_href="upload:U37543"/>
+    <asset filename="plananticorrupcion-2017.pdf" muse_href="upload:U37545"/>
+    <asset filename="resolucion009-2017.pdf" muse_href="upload:U37547"/>
+    <asset filename="resolucion_059_abril_16_2016.pdf" muse_href="upload:U37549"/>
+    <asset filename="resolucion_009_2016.pdf" muse_href="upload:U37551"/>
+    <asset filename="seccion-noticias.jpg" muse_href="upload:U39444"/>
+    <asset filename="portal-transpa.jpg" muse_href="upload:U39454"/>
+    <asset filename="seguimientoplananticorrupcion2019-tercertrimestre.pdf" muse_href="upload:U39470"/>
+    <asset filename="8-2-relacion-contratos-2019.xlsx" muse_href="upload:U41786"/>
+    <asset filename="7-6-informe-procesos-judiciales-julio-2019.xlsx" muse_href="upload:U41788"/>
+    <asset filename="peti---indersantander.pdf" muse_href="upload:U41817"/>
+    <asset filename="politica-de-seguridad-y-privacidad-de-la-información-indersantander.pdf" muse_href="upload:U41819"/>
+    <asset filename="austeridadgasto2019-tercertrimestre.pdf" muse_href="upload:U41830"/>
+    <asset filename="pgd-indersantander.pdf" muse_href="upload:U42094"/>
+    <asset filename="tablas-retencion-documental.pdf" muse_href="upload:U42096"/>
+    <asset filename="informe-procesos-judiciales-julio-2019.xlsx" muse_href="upload:U42098"/>
+    <asset filename="preguntas-frecuentes-inder.pdf" muse_href="upload:U42100"/>
+    <asset filename="res-028-2019-plan-bienestar-social,-estimulos-e-incentivos-y-capacitacion-(1).pdf" muse_href="upload:U42150"/>
+    <asset filename="pinar-indersantander.pdf" muse_href="upload:U42152"/>
+    <asset filename="informe-pormenorizado-control-interno-a--octubre-31.pdf" muse_href="upload:U42163"/>
+    <asset filename="resolucion180-de-2018-codigo-de-integridad-del-servicio-publico.pdf" muse_href="upload:U42177"/>
+    <asset filename="informe-auditoria-icontec-2016.pdf" muse_href="upload:U42180"/>
+    <asset filename="informe-auditoria-icontec-2017.pdf" muse_href="upload:U42182"/>
+    <asset filename="informe-auditoria-icontec-2018.pdf" muse_href="upload:U42184"/>
+    <asset filename="plan-de-trabajo-sgi_2019.pdf" muse_href="upload:U42216"/>
+    <asset filename="avance-1-plan-de-mejoramiento-cgs-abril-2019.xls" muse_href="upload:U42245"/>
+    <asset filename="avance-2-plan-de-mejorameinto-cgs-julio-2019.xlsx" muse_href="upload:U42247"/>
+    <asset filename="avance-3-plan-de-mejormiento-cgs-octubre-2019.xlsx" muse_href="upload:U42249"/>
+    <paragraphStyle className="normal_text" uid="U48"/>
+    <paragraphStyle className="H1" uid="U545"/>
+    <paragraphStyle className="bodytext" uid="U546"/>
+    <paragraphStyle className="H2" uid="U1296"/>
+    <paragraphStyle className="H3" uid="U1298"/>
+    <paragraphStyle className="H4" uid="U1344"/>
+    <paragraphStyle className="ts--Item-Price" uid="U9850"/>
+    <characterStyle className="title-semibold" uid="U570"/>
+    <textLinkStyle className="footer1" uid="U189"/>
+    <textLinkStyle className="Green-on-White" uid="U907"/>
+    <nestedListStyle className="nls-None" uid="U51"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="INICIO" filename="index.html" muse_href="page:U73" master="U64">
+        <breakpoint uid="U2975" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U60" uid="U64">
+        <breakpoint uid="U2973" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U60">
+        <breakpoint uid="U2974" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Director" filename="director.html" muse_href="page:U28806" master="U64">
+        <breakpoint uid="U28724" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Organigrama" filename="organigrama.html" muse_href="page:U28926" master="U64">
+        <breakpoint uid="U28844" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Mision" filename="mision.html" muse_href="page:U29086" master="U64">
+        <breakpoint uid="U29004" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Funciones" filename="funciones.html" muse_href="page:U29315" master="U64">
+        <breakpoint uid="U29233" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Plan" filename="plan.html" muse_href="page:U29474" master="U64">
+        <breakpoint uid="U29392" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Normatividad" filename="normatividad.html" muse_href="page:U29674" master="U64">
+        <breakpoint uid="U29592" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Historia" filename="historia.html" muse_href="page:U30874" master="U64">
+        <breakpoint uid="U30792" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Calidad" filename="calidad.html" muse_href="page:U31066" master="U64">
+        <breakpoint uid="U30984" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Directorio" filename="directorio.html" muse_href="page:U31247" master="U64">
+        <breakpoint uid="U31165" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Deporte Asociado" filename="deporte-asociado.html" muse_href="page:U31358" master="U64">
+        <breakpoint uid="U31276" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Deporte Estudiantil" filename="deporte-estudiantil.html" muse_href="page:U31443" master="U64">
+        <breakpoint uid="U31361" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Deporte Social" filename="deporte-social.html" muse_href="page:U31527" master="U64">
+        <breakpoint uid="U31445" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Deporte Alto Rendimiento" filename="deporte-alto-rendimiento.html" muse_href="page:U31611" master="U64">
+        <breakpoint uid="U31529" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Ligas" filename="ligas.html" muse_href="page:U31695" master="U64">
+        <breakpoint uid="U31613" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Habitos y salud" filename="habitos-y-salud.html" muse_href="page:U31779" master="U64">
+        <breakpoint uid="U31697" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Gestion" filename="gestion.html" muse_href="page:U32837" master="U64">
+        <breakpoint uid="U32755" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Control Interno" filename="control-interno.html" muse_href="page:U32921" master="U64">
+        <breakpoint uid="U32839" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Contratos" filename="contratos.html" muse_href="page:U33005" master="U64">
+        <breakpoint uid="U32923" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Juridica" filename="juridica.html" muse_href="page:U33089" master="U64">
+        <breakpoint uid="U33007" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Transparencia" filename="transparencia.html" muse_href="page:U33173" master="U64">
+        <breakpoint uid="U33091" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Enlaces" filename="enlaces.html" muse_href="page:U33340" master="U64">
+        <breakpoint uid="U33258" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Financiera" filename="financiera.html" muse_href="page:U33511" master="U64">
+        <breakpoint uid="U33429" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Noticias" filename="noticias.html" muse_href="page:U34665" master="U64">
+        <breakpoint uid="U34583" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Calendario" filename="calendario.html" muse_href="page:U34749" master="U64">
+        <breakpoint uid="U34667" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PQRS" filename="pqrs.html" muse_href="page:U34833" master="U64">
+        <breakpoint uid="U34751" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Presupuesto" filename="presupuesto.html" muse_href="page:U35012" master="U64">
+        <breakpoint uid="U34930" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Financieros" filename="financieros.html" muse_href="page:U40436" master="U64">
+        <breakpoint uid="U40354" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="presupuestoasignado" filename="presupuestoasignado.html" muse_href="page:U40791" master="U64">
+        <breakpoint uid="U40709" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="paa" filename="paa.html" muse_href="page:U40928" master="U64">
+        <breakpoint uid="U40846" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="informescontrolint" filename="informescontrolint.html" muse_href="page:U41065" master="U64">
+        <breakpoint uid="U40983" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Politicas" filename="politicas.html" muse_href="page:U41914" master="U64">
+        <breakpoint uid="U41832" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="proteccion" filename="proteccion.html" muse_href="page:U41998" master="U64">
+        <breakpoint uid="U41916" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="portal ninos" filename="portal-ninos.html" muse_href="page:U42333" master="U64">
+        <breakpoint uid="U42251" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="MIPG" filename="mipg.html" muse_href="page:U42530" master="U64">
+        <breakpoint uid="U42448" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

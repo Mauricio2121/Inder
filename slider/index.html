@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Lof JSliderNews 2.0 - Jquery 1.7.x</title>
+<link rel="stylesheet" type="text/css" href="css/layout.css" />
+<link rel="stylesheet" type="text/css" href="css/style1.css" />
+<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.easing.js"></script>
+<script language="javascript" type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript">
+ $(document).ready( function(){	
+		// buttons for next and previous item						 
+		var buttons = { previous:$('#jslidernews1 .button-previous') ,
+						next:$('#jslidernews1 .button-next') };			
+		 $('#jslidernews1').lofJSidernews( { interval : 4000,
+											direction		: 'opacitys',	
+											easing			: 'easeInOutExpo',
+											duration		: 1200,
+											auto		 	: true,
+											maxItemDisplay  : 4,
+											navPosition     : 'horizontal', // horizontal
+											navigatorHeight : 50,
+											navigatorWidth  : 100,
+											mainWidth		: 660,
+											buttons			: buttons } );	
+	});
+</script>
+
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style></head>
+<body>
+	<div id="container"><!------------------------------------- THE CONTENT ------------------------------------------------->
+<div id="jslidernews1" class="lof-slidecontent" style="width:660px; height:300px;">
+	<div class="preload">
+    <div></div></div>
+    		 <!-- MAIN CONTENT --> 
+              <div class="main-slider-content" style="width:660px; height:300px;">
+                <ul class="sliders-wrap-inner">
+                    <li>
+                      <img src="images/noticias/02142014_seguridad660.jpg" width="660" height="300" title="Newsflash 5" >            
+                        <div class="slider-description">
+                          <div class="slider-meta"><i>Bucaramanga, Febrero 14 de 2014</i></div>
+                            <h4>Más de 3.500 millones de pesos se invertirán en sistema de televisión para la seguridad de asistentes al estadio Alfonso López</h4>
+                            <p><a class="readmore" href="../noticia13.php" target="_parent">Leer Más</a></p>
+                      </div>
+                  </li> 
+				  <li>
+                      <img src="images/noticias/02142014_apoyo660.jpg" width="660" height="300" title="Newsflash 5" >            
+                        <div class="slider-description">
+                          <div class="slider-meta"><i>Bucaramanga, Febrero 14 de 2014</i></div>
+                            <h4>Inder Santander apoyará con recreación Jornada Quirúrgica de Malformaciones Congénitas</h4>
+                            <p><a class="readmore" href="../noticia12.php" target="_parent">Leer Más</a></p>
+                      </div>
+                  </li> 
+					<li>
+                      <img src="images/noticias/02132014_estadio660.jpg" width="660" height="300" title="Newsflash 5" >            
+                        <div class="slider-description">
+                          <div class="slider-meta"><i>Bucaramanga, Febrero 13 de 2014</i></div>
+                            <h4>30 mil millones de pesos están listos para ser invertidos en el estadio Alfonso López</h4>
+                            <p><a class="readmore" href="../noticia11.php" target="_parent">Leer Más</a></p>
+                      </div>
+                  </li> 
+                   <li>
+                      <img src="images/noticias/02132014_ajedrez660.jpg" width="660" height="300" title="Newsflash 5" >            
+                        <div class="slider-description">
+                          <div class="slider-meta"><i>Bucaramanga, Febrero 13 de 2014</i></div>
+                            <h4>Liga Santandereana de ajedrez definirá selección este próximo fin de semana</h4>
+                            <p><a class="readmore" href="../noticia10.php" target="_parent">Leer Más</a>
+                            </p>
+                      </div>
+                  </li> 
+                </ul>  	
+            </div>
+ 		   <!-- END MAIN CONTENT --> 
+           <!-- NAVIGATOR -->
+           	<div class="navigator-content">
+                  <div class="button-next">Next</div>
+                  <div class="navigator-wrapper">
+                        <ul class="navigator-wrap-inner">
+                           <li><img src="images/noticias/02142014_seguridadt.jpg" /></li>
+						   <li><img src="images/noticias/02142014_apoyot.jpg" /></li>
+						   <li><img src="images/noticias/02132014_estadiot.jpg" /></li>
+                           <li><img src="images/noticias/02132014_ajedrezt.jpg" /></li>     		
+                        </ul>
+                  </div>
+                  <div  class="button-previous">Previous</div>
+    </div> 
+          <!----------------- END OF NAVIGATOR --------------------->
+          <!-- BUTTON PLAY-STOP -->
+          <div class="button-control"><span></span></div>
+           <!-- END OF BUTTON PLAY-STOP -->
+          
+ </div> 
+
+
+<!------------------------------------- END OF THE CONTENT ------------------------------------------------->
+ <p> 
+
+    </div>
+</body>
+</html>

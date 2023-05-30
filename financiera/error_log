@@ -1,0 +1,63 @@
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/indersan/public_html/financiera/of_control.php on line 152
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/indersan/public_html/financiera/of_control.php on line 327
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[07-Oct-2017 19:10:55 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:13:30 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:20 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:21 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 02:58:22 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 152
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(lat.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(): Failed opening 'lat.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 327
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/indersan/public_html/financiera/of_control.php on line 335
+[10-Jan-2020 03:03:28 America/New_York] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/indersan/public_html/financiera/of_control.php on line 335

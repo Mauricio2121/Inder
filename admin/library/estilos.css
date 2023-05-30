@@ -1,0 +1,44 @@
+div#mod_panelusu {
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	width: 400px;
+	height: 240px;	
+	border: 2px #f58634 solid;
+}
+
+div#cabecera {	
+	width: 800px;
+	height: 150px;
+}
+
+div#contenido #menu{
+	margin-left: 100px;
+	margin-top:50px;
+	width: 800px;
+	height: 300px;
+}
+
+div#contenido #menu a {	
+	font-family: calibri;
+	font-size: 16px;
+	color: #cd6f29;	
+}
+
+div#formulario {
+	position: absolute;
+	top: 200px;
+	left: 50px;
+	width: 800px;
+	height: 500px;
+	font-family: calibri;
+	font-size: 14px;
+	/*border: 2px #f58634 solid;*/	
+}
+
+div#formulario a {	
+	font-family: calibri;
+	font-size: 16px;
+	color: #cd6f29;	
+}
+
