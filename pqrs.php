@@ -178,6 +178,7 @@ $exito="yes";
 if (param("enviar")=="G")
 {	
 $para="administrativayfinanciera@indersantander.gov.co";  
+
 $nom=param("nombre");
 $ema=param("email");
 $con=param("asunto");

@@ -167,7 +167,7 @@ return( "<strong>Bucaramanga.</strong> Hoy es " + dias_de_la_semana[dia] + ", " 
         <td height="20" align="left" valign="top"><div align="justify">
           <p class="parrafo"><span class="titulosN">Diego Fernando Mancilla Le&oacute;n</span><br />
             <br />
-              <span class="titulosN"><img src="images/pedrocarrillo.jpg" width="330" height="253" hspace="20" vspace="20" align="left" /></span></p>
+              <span class="titulosN"><img src="images/directoraKelly.jpg" width="330" height="253" hspace="20" vspace="20" align="left" /></span></p>
           <p class="parrafo">Informaci&oacute;n del Director </p>
           <span class="parrafo">Naci&oacute en Bucaramanga, Santander y estudi&oacute Contadur&iacute;a P&uacute;blica en la Universidad Cooperativa de Colombia en Bucaramanga. Hizo un Postgrado en Gerencia P&uacute;blica en la Universidad de Santander UDES. Tiene una amplia experiencia en el sector deporte, asuntos administrativos y contrataci&oacute;n estatal l. Es un profesional con capacidad de asesorar, conceptuar y representar administrativamente.</span>
           <p class="parrafo">Hasta la fecha ha adquirido experiencia en el sector p&uacute;blico y privado desarrollando habilidades de liderazgo, gerencia y desarrollo de proyectos.</p>
